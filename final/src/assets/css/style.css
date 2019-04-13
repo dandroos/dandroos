@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: arial;
+  font-weight: 400; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200; }
+
+.justify {
+  text-align: justify !important; }
+
+.italic {
+  font-style: italic !important; }
+
+.center {
+  text-align: center; }
+
+h1 {
+  color: #69d086; }
+
+/*# sourceMappingURL=style.css.map */

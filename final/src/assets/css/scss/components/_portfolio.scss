@@ -1,0 +1,39 @@
+.portfolio{
+
+    &-selector{
+        
+        &__submenu{
+
+            &--title{}
+            &--group{}
+            &--filter{}
+            &--label{}
+            &--checkbox{}
+
+
+        }
+    }
+
+    &-projects{
+
+        &__project{
+
+            &--topbar{
+
+                &-title{}
+                &-link{}
+            }
+
+            &--summary{
+
+                &-link{
+
+                    &-screenshot{}
+                }
+                &-field{}
+                &-value{}
+
+            }
+        }
+    }
+}

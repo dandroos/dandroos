@@ -1,0 +1,31 @@
+.card{
+
+    &__principle{
+
+        &--head{
+
+            &-icon{}
+
+            &-title{}
+        }
+
+        &--description{
+
+        }
+    }
+
+    &__skills{
+        
+        &--skill{
+            
+            &-icon{}
+            &-title{}
+            &-description{}
+            &-level{}
+        }
+    }
+
+    &__portfolio{
+        
+    }
+}
